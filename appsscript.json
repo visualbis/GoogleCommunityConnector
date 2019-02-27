@@ -1,0 +1,14 @@
+{
+    "dataStudio": {
+      "name": "VBI REST API Community Connectors",
+      "logoUrl": "https://visualbi.com/wp-content/uploads/visualbi-logo-175-60.png",
+      "company": "Visual BI solutions",
+      "companyUrl": "https://visualbi.com",
+      "addonUrl":"https://github.com/visualbi",
+      "supportUrl":"https://github.com/visualbi",
+      "description": "Retrieves data source from REST API.",
+      "templates":{
+        "default":"19V74LYSDmD8l5zUwVa78pKCQUV5080pe"
+      }
+    }
+  }
